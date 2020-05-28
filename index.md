@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Astromix</title>
-    <meta name="description" content="GardenPark">
+    <meta name="description" content="Astromix - test for coder">
     <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&family=Tenor+Sans&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/style.css">
     
